@@ -10,7 +10,6 @@
         <ul>
           <li><b>Pick Your Brain</b>: Choose from different AI models to power your assistant!</li>
           <li><b>Go Dark (or Light!)</b>: Switch between a Dark or Light theme to match your style.</li>
-          <li><b>Set a Shortcut</b>: Change the keyboard shortcut to open the AI Assistant to whatever you like.</li>
         </ul>
       </li>
       <li><b>More AI Options</b>: We've added a bunch of new AI models for you to choose from. They all have different strengths, so experiment to see what works best for you!</li>
