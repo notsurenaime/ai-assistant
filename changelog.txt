@@ -1,0 +1,62 @@
+<html>
+  <body>
+    <h1>Changelog</h1>
+
+    <h2>[0.3.0] - 2025-03-14</h2>
+
+    <h3>What's New? ✨</h3>
+    <ul>
+      <li><b>Customize Your Experience!</b>: We've added a <b>Settings</b> menu where you can:
+        <ul>
+          <li><b>Pick Your Brain</b>: Choose from different AI models to power your assistant!</li>
+          <li><b>Go Dark (or Light!)</b>: Switch between a Dark or Light theme to match your style.</li>
+          <li><b>Set a Shortcut</b>: Change the keyboard shortcut to open the AI Assistant to whatever you like.</li>
+        </ul>
+      </li>
+      <li><b>More AI Options</b>: We've added a bunch of new AI models for you to choose from. They all have different strengths, so experiment to see what works best for you!</li>
+      <li><b>Smarter Command Recognition</b>: The AI Assistant is now better at understanding what you're asking it to do, whether it's just getting information or actually performing an action on your computer.</li>
+      <li><b>Tooltips</b>: Helpful little messages will pop up when you hover over things in the app, explaining what they do.</li>
+      <li><b>Changelog Added</b>: The changelog feature itself has been added! You can now view the changelog from within the app.</li>
+    </ul>
+
+    <h3>What's Improved? 🛠️</h3>
+    <ul>
+      <li><b>Stays How You Like It</b>: Your settings for AI model, theme, and shortcut will now be saved and remembered when you restart the app!</li>
+      <li><b>Shortcut's Up-to-Date</b>: The global shortcut will now change automatically when you change it in the settings.</li>
+      <li><b>Better Look</b>: The theme is now applied when you start the application.</li>
+    </ul>
+
+    <h3>Bug Fixes 🐞</h3>
+    <ul>
+      <li><b>Settings Saving</b>: Fixed an issue where your settings weren't always being saved correctly.</li>
+      <li>Other small fixes to make the app run more smoothly.</li>
+    </ul>
+
+    <h2>[0.2.0] - 2025-03-13</h2>
+
+    <h3>What's New? ✨</h3>
+    <ul>
+      <li><b>Ask Anything!</b>: Initial version of the AI Assistant lets you type questions and get answers.</li>
+      <li><b>PowerShell Commands</b>: You can ask the assistant to run PowerShell commands for you.</li>
+      <li><b>System Tray</b>: The app sits in your system tray (down by the clock) so it's always available.</li>
+      <li><b>Global Shortcut (Ctrl+Q)</b>: Press Ctrl+Q to bring the AI Assistant to the front.</li>
+      <li><b>About Window</b>: Learn more about the app in the "About" window.</li>
+    </ul>
+
+    <h3>What's Improved? 🛠️</h3>
+    <ul>
+      <li>Better-looking interface.</li>
+      <li>Code improvements to make the app easier to maintain.</li>
+    </ul>
+
+    <h3>Bug Fixes 🐞</h3>
+    <ul>
+      <li>Minor bug fixes.</li>
+    </ul>
+
+    <h2>[0.1.0] - 2025-03-12</h2>
+    <ul>
+      <li>The very first version of the AI Assistant!</li>
+    </ul>
+  </body>
+</html>
