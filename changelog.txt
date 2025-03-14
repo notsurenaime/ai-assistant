@@ -15,7 +15,7 @@
       </li>
       <li><b>More AI Options</b>: We've added a bunch of new AI models for you to choose from. They all have different strengths, so experiment to see what works best for you!</li>
       <li><b>Smarter Command Recognition</b>: The AI Assistant is now better at understanding what you're asking it to do, whether it's just getting information or actually performing an action on your computer.</li>
-      <li><b>Tooltips</b>: Helpful little messages will pop up when you hover over things in the app, explaining what they do.</li>
+      <li><b>Global Shortcut (Alt+Shift+Q)</b>: Press Alt+Shift+Q to bring the AI Assistant to the front.</li>
       <li><b>Changelog Added</b>: The changelog feature itself has been added! You can now view the changelog from within the app.</li>
     </ul>
 
@@ -39,7 +39,6 @@
       <li><b>Ask Anything!</b>: Initial version of the AI Assistant lets you type questions and get answers.</li>
       <li><b>PowerShell Commands</b>: You can ask the assistant to run PowerShell commands for you.</li>
       <li><b>System Tray</b>: The app sits in your system tray (down by the clock) so it's always available.</li>
-      <li><b>Global Shortcut (Ctrl+Q)</b>: Press Ctrl+Q to bring the AI Assistant to the front.</li>
       <li><b>About Window</b>: Learn more about the app in the "About" window.</li>
     </ul>
 
