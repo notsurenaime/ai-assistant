@@ -2,6 +2,33 @@
   <body>
     <h1>Changelog</h1>
 
+    <h2>[0.4.0] - 2025-03-15</h2>
+
+    <h3>What's New? ✨</h3>
+    <ul>
+      <li><b>Voice Output!</b>: The AI Assistant can now speak its responses aloud! You can enable or disable this feature in the <b>Settings</b> menu.</li>
+      <li><b>Customizable Voice Settings</b>: In the <b>Settings</b> menu, you can now:
+        <ul>
+          <li>Enable or disable voice output.</li>
+          <li>Adjust the speech rate (speed) and volume of the voice.</li>
+        </ul>
+      </li>
+      <li><b>Improved Error Handling</b>: Better error messages and logging to help diagnose issues.</li>
+    </ul>
+
+    <h3>What's Improved? 🛠️</h3>
+    <ul>
+      <li><b>Voice Output Integration</b>: The voice output feature is seamlessly integrated into the chat experience.</li>
+      <li><b>Settings Persistence</b>: Voice output settings are now saved and restored when you restart the app.</li>
+      <li><b>Performance Enhancements</b>: Optimized the text-to-speech engine for smoother operation.</li>
+    </ul>
+
+    <h3>Bug Fixes 🐞</h3>
+    <ul>
+      <li>Fixed an issue where the voice output setting was not being respected in some cases.</li>
+      <li>Improved handling of errors in the text-to-speech engine.</li>
+    </ul>
+
     <h2>[0.3.0] - 2025-03-14</h2>
 
     <h3>What's New? ✨</h3>
@@ -22,39 +49,4 @@
     <ul>
       <li><b>Stays How You Like It</b>: Your settings for AI model, theme, and shortcut will now be saved and remembered when you restart the app!</li>
       <li><b>Shortcut's Up-to-Date</b>: The global shortcut will now change automatically when you change it in the settings.</li>
-      <li><b>Better Look</b>: The theme is now applied when you start the application.</li>
-    </ul>
-
-    <h3>Bug Fixes 🐞</h3>
-    <ul>
-      <li><b>Settings Saving</b>: Fixed an issue where your settings weren't always being saved correctly.</li>
-      <li>Other small fixes to make the app run more smoothly.</li>
-    </ul>
-
-    <h2>[0.2.0] - 2025-03-13</h2>
-
-    <h3>What's New? ✨</h3>
-    <ul>
-      <li><b>Ask Anything!</b>: Initial version of the AI Assistant lets you type questions and get answers.</li>
-      <li><b>PowerShell Commands</b>: You can ask the assistant to run PowerShell commands for you.</li>
-      <li><b>System Tray</b>: The app sits in your system tray (down by the clock) so it's always available.</li>
-      <li><b>About Window</b>: Learn more about the app in the "About" window.</li>
-    </ul>
-
-    <h3>What's Improved? 🛠️</h3>
-    <ul>
-      <li>Better-looking interface.</li>
-      <li>Code improvements to make the app easier to maintain.</li>
-    </ul>
-
-    <h3>Bug Fixes 🐞</h3>
-    <ul>
-      <li>Minor bug fixes.</li>
-    </ul>
-
-    <h2>[0.1.0] - 2025-03-12</h2>
-    <ul>
-      <li>The very first version of the AI Assistant!</li>
-    </ul>
-  </body>
-</html>
+      <li><b>Better Look</b>: The theme is now applied when you
