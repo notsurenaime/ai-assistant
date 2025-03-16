@@ -2,6 +2,39 @@
   <body>
     <h1>Changelog</h1>
 
+    <h2>[0.4.0] - 2025-03-15</h2>
+
+<h3>What's New? ✨</h3>
+<ul>
+  <li><b>Text-to-Speech Functionality</b>: The assistant can now speak its responses out loud!
+    <ul>
+      <li>Toggle voice output on or off in Settings.</li>
+      <li>Adjust speech rate and volume with new sliders.</li>
+    </ul>
+  </li>
+  <li><b>New Sidebar Navigation</b>: Added a sidebar for easier access to Settings and Account.</li>
+  <li><b>Improved Chat Display</b>: 
+    <ul>
+      <li>Increased font size for better readability.</li>
+      <li>Enhanced message formatting with bold text support.</li>
+      <li>More distinct theming for user and AI messages.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>What's Improved? 🛠️</h3>
+<ul>
+  <li><b>Settings Application</b>: Settings are now applied more consistently across the application.</li>
+  <li><b>Error Handling</b>: Improved error messages and logging throughout the application.</li>
+  <li><b>Status Messages</b>: More informative status updates during processing.</li>
+  <li><b>Code Structure</b>: Better organization of code with new functions and classes.</li>
+</ul>
+
+<h3>Bug Fixes 🐞</h3>
+<ul>
+  <li>Fixed various minor bugs and improved overall stability.</li>
+</ul>
+
     <h2>[0.3.0] - 2025-03-14</h2>
 
     <h3>What's New? ✨</h3>
